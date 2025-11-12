@@ -8,7 +8,7 @@
     "original_price": 500,
     "discount_price": 251,
     "images": [
-      "image/1.jpg",
+      "image/1.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -37,7 +37,7 @@
     "original_price": 500,
     "discount_price": 444,
     "images": [
-      "image/4.jpg",
+      "image/2.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -66,7 +66,7 @@
     "original_price": 500,
     "discount_price": 244,
     "images": [
-      "image/7.jpg",
+      "image/3.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -95,7 +95,7 @@
     "original_price": 500,
     "discount_price": 409,
     "images": [
-      "image/10.jpg",
+      "image/4.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -124,7 +124,7 @@
     "original_price": 500,
     "discount_price": 375,
     "images": [
-      "image/13.jpg",
+      "image/5.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -153,7 +153,7 @@
     "original_price": 500,
     "discount_price": 216,
     "images": [
-      "image/16.jpg",
+      "image/6.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -182,7 +182,7 @@
     "original_price": 500,
     "discount_price": 318,
     "images": [
-      "image/19.jpg",
+      "image/7.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -211,7 +211,7 @@
     "original_price": 500,
     "discount_price": 312,
     "images": [
-      "image/22.jpg",
+      "image/8.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -240,7 +240,7 @@
     "original_price": 500,
     "discount_price": 361,
     "images": [
-      "image/25.jpg",
+      "image/9.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -269,7 +269,7 @@
     "original_price": 500,
     "discount_price": 305,
     "images": [
-      "image/28.jpg",
+      "image/10.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -298,7 +298,7 @@
     "original_price": 500,
     "discount_price": 301,
     "images": [
-      "image/31.jpg",
+      "image/11.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -327,7 +327,7 @@
     "original_price": 500,
     "discount_price": 443,
     "images": [
-      "image/34.jpg",
+      "image/12.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -356,7 +356,7 @@
     "original_price": 500,
     "discount_price": 426,
     "images": [
-      "image/37.jpg",
+      "image/13.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -385,7 +385,7 @@
     "original_price": 500,
     "discount_price": 458,
     "images": [
-      "image/40.jpg",
+      "image/14.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -414,7 +414,7 @@
     "original_price": 500,
     "discount_price": 388,
     "images": [
-      "image/43.jpg",
+      "image/15.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -443,7 +443,7 @@
     "original_price": 500,
     "discount_price": 273,
     "images": [
-      "image/46.jpg",
+      "image/16.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -472,7 +472,7 @@
     "original_price": 500,
     "discount_price": 402,
     "images": [
-      "image/49.jpg",
+      "image/17.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -501,7 +501,7 @@
     "original_price": 500,
     "discount_price": 411,
     "images": [
-      "image/52.jpg",
+      "image/18.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -530,7 +530,7 @@
     "original_price": 500,
     "discount_price": 317,
     "images": [
-      "image/55.jpg",
+      "image/19.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -559,7 +559,7 @@
     "original_price": 500,
     "discount_price": 479,
     "images": [
-      "image/58.jpg",
+      "image/20.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -588,7 +588,7 @@
     "original_price": 500,
     "discount_price": 426,
     "images": [
-      "image/61.jpg",
+      "image/21.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -617,7 +617,7 @@
     "original_price": 500,
     "discount_price": 399,
     "images": [
-      "image/64.jpg",
+      "image/22.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -646,7 +646,7 @@
     "original_price": 500,
     "discount_price": 458,
     "images": [
-      "image/67.jpg",
+      "image/23.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -675,7 +675,7 @@
     "original_price": 500,
     "discount_price": 207,
     "images": [
-      "image/70.jpg",
+      "image/24.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -704,7 +704,7 @@
     "original_price": 500,
     "discount_price": 425,
     "images": [
-      "image/73.jpg",
+      "image/25.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -733,7 +733,7 @@
     "original_price": 500,
     "discount_price": 355,
     "images": [
-      "image/76.jpg",
+      "image/26.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -762,7 +762,7 @@
     "original_price": 500,
     "discount_price": 463,
     "images": [
-      "image/79.jpg",
+      "image/27.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -791,7 +791,7 @@
     "original_price": 500,
     "discount_price": 484,
     "images": [
-      "image/82.jpg",
+      "image/28.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -820,7 +820,7 @@
     "original_price": 500,
     "discount_price": 252,
     "images": [
-      "image/85.jpg",
+      "image/29.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -849,7 +849,7 @@
     "original_price": 500,
     "discount_price": 269,
     "images": [
-      "image/88.jpg",
+      "image/30.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -878,7 +878,7 @@
     "original_price": 500,
     "discount_price": 471,
     "images": [
-      "image/91.jpg",
+      "image/31.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -907,7 +907,7 @@
     "original_price": 500,
     "discount_price": 230,
     "images": [
-      "image/94.jpg",
+      "image/32.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -936,7 +936,7 @@
     "original_price": 500,
     "discount_price": 237,
     "images": [
-      "image/97.jpg",
+      "image/33.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -965,7 +965,7 @@
     "original_price": 500,
     "discount_price": 290,
     "images": [
-      "image/100.jpg",
+      "image/34.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -994,7 +994,7 @@
     "original_price": 500,
     "discount_price": 285,
     "images": [
-      "image/103.jpg",
+      "image/35.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1023,7 +1023,7 @@
     "original_price": 500,
     "discount_price": 312,
     "images": [
-      "image/106.jpg",
+      "image/36.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1052,7 +1052,7 @@
     "original_price": 500,
     "discount_price": 410,
     "images": [
-      "image/109.jpg",
+      "image/37.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1081,7 +1081,7 @@
     "original_price": 500,
     "discount_price": 369,
     "images": [
-      "image/112.jpg",
+      "image/38.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1110,7 +1110,7 @@
     "original_price": 500,
     "discount_price": 284,
     "images": [
-      "image/115.jpg",
+      "image/39.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1139,7 +1139,7 @@
     "original_price": 500,
     "discount_price": 376,
     "images": [
-      "image/118.jpg",
+      "image/40.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1168,7 +1168,7 @@
     "original_price": 500,
     "discount_price": 429,
     "images": [
-      "image/121.jpg",
+      "image/41.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1197,7 +1197,7 @@
     "original_price": 500,
     "discount_price": 386,
     "images": [
-      "image/124.jpg",
+      "image/42.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1226,7 +1226,7 @@
     "original_price": 500,
     "discount_price": 410,
     "images": [
-      "image/127.jpg",
+      "image/43.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1255,7 +1255,7 @@
     "original_price": 500,
     "discount_price": 222,
     "images": [
-      "image/130.jpg",
+      "image/44.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1284,7 +1284,7 @@
     "original_price": 500,
     "discount_price": 355,
     "images": [
-      "image/133.jpg",
+      "image/45.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1313,7 +1313,7 @@
     "original_price": 500,
     "discount_price": 219,
     "images": [
-      "image/136.jpg",
+      "image/46.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1342,7 +1342,7 @@
     "original_price": 500,
     "discount_price": 392,
     "images": [
-      "image/139.jpg",
+      "image/47.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1371,7 +1371,7 @@
     "original_price": 500,
     "discount_price": 328,
     "images": [
-      "image/142.jpg",
+      "image/48.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1400,7 +1400,7 @@
     "original_price": 500,
     "discount_price": 402,
     "images": [
-      "image/145.jpg",
+      "image/49.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1429,7 +1429,7 @@
     "original_price": 500,
     "discount_price": 249,
     "images": [
-      "image/148.jpg",
+      "image/50.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1450,7 +1450,7 @@
     "gender": "Men"
   },
 
-  
+
   {
     "id": 51,
     "brand": "Shreys",
@@ -1460,7 +1460,7 @@
     "original_price": 500,
     "discount_price": 208,
     "images": [
-      "image/1.jpg",
+      "image/51.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1489,7 +1489,7 @@
     "original_price": 500,
     "discount_price": 466,
     "images": [
-      "image/4.jpg",
+      "image/52.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1518,7 +1518,7 @@
     "original_price": 500,
     "discount_price": 395,
     "images": [
-      "image/7.jpg",
+      "image/53.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1547,7 +1547,7 @@
     "original_price": 500,
     "discount_price": 318,
     "images": [
-      "image/10.jpg",
+      "image/54.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1576,7 +1576,7 @@
     "original_price": 500,
     "discount_price": 499,
     "images": [
-      "image/13.jpg",
+      "image/55.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1605,7 +1605,7 @@
     "original_price": 500,
     "discount_price": 239,
     "images": [
-      "image/16.jpg",
+      "image/56.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1634,7 +1634,7 @@
     "original_price": 500,
     "discount_price": 337,
     "images": [
-      "image/19.jpg",
+      "image/57.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1663,7 +1663,7 @@
     "original_price": 500,
     "discount_price": 488,
     "images": [
-      "image/22.jpg",
+      "image/58.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1692,7 +1692,7 @@
     "original_price": 500,
     "discount_price": 450,
     "images": [
-      "image/25.jpg",
+      "image/59.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1721,7 +1721,7 @@
     "original_price": 500,
     "discount_price": 219,
     "images": [
-      "image/28.jpg",
+      "image/60.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1750,7 +1750,7 @@
     "original_price": 500,
     "discount_price": 409,
     "images": [
-      "image/31.jpg",
+      "image/61.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1779,7 +1779,7 @@
     "original_price": 500,
     "discount_price": 253,
     "images": [
-      "image/34.jpg",
+      "image/62.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1808,7 +1808,7 @@
     "original_price": 500,
     "discount_price": 475,
     "images": [
-      "image/37.jpg",
+      "image/63.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1837,7 +1837,7 @@
     "original_price": 500,
     "discount_price": 260,
     "images": [
-      "image/40.jpg",
+      "image/64.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1866,7 +1866,7 @@
     "original_price": 500,
     "discount_price": 306,
     "images": [
-      "image/43.jpg",
+      "image/65.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1895,7 +1895,7 @@
     "original_price": 500,
     "discount_price": 440,
     "images": [
-      "image/46.jpg",
+      "image/66.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1924,7 +1924,7 @@
     "original_price": 500,
     "discount_price": 470,
     "images": [
-      "image/49.jpg",
+      "image/67.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1953,7 +1953,7 @@
     "original_price": 500,
     "discount_price": 272,
     "images": [
-      "image/52.jpg",
+      "image/68.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -1982,7 +1982,7 @@
     "original_price": 500,
     "discount_price": 248,
     "images": [
-      "image/55.jpg",
+      "image/69.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2011,7 +2011,7 @@
     "original_price": 500,
     "discount_price": 478,
     "images": [
-      "image/58.jpg",
+      "image/70.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2040,7 +2040,7 @@
     "original_price": 500,
     "discount_price": 342,
     "images": [
-      "image/61.jpg",
+      "image/71.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2069,7 +2069,7 @@
     "original_price": 500,
     "discount_price": 434,
     "images": [
-      "image/64.jpg",
+      "image/72.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2098,7 +2098,7 @@
     "original_price": 500,
     "discount_price": 269,
     "images": [
-      "image/67.jpg",
+      "image/73.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2127,7 +2127,7 @@
     "original_price": 500,
     "discount_price": 342,
     "images": [
-      "image/70.jpg",
+      "image/74.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2156,7 +2156,7 @@
     "original_price": 500,
     "discount_price": 255,
     "images": [
-      "image/73.jpg",
+      "image/75.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2185,7 +2185,7 @@
     "original_price": 500,
     "discount_price": 464,
     "images": [
-      "image/76.jpg",
+      "image/76.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2214,7 +2214,7 @@
     "original_price": 500,
     "discount_price": 401,
     "images": [
-      "image/79.jpg",
+      "image/77.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2243,7 +2243,7 @@
     "original_price": 500,
     "discount_price": 388,
     "images": [
-      "image/82.jpg",
+      "image/78.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2272,7 +2272,7 @@
     "original_price": 500,
     "discount_price": 445,
     "images": [
-      "image/85.jpg",
+      "image/79.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2301,7 +2301,7 @@
     "original_price": 500,
     "discount_price": 434,
     "images": [
-      "image/88.jpg",
+      "image/80.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2330,7 +2330,7 @@
     "original_price": 500,
     "discount_price": 397,
     "images": [
-      "image/91.jpg",
+      "image/81.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2359,7 +2359,7 @@
     "original_price": 500,
     "discount_price": 499,
     "images": [
-      "image/94.jpg",
+      "image/82.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2388,7 +2388,7 @@
     "original_price": 500,
     "discount_price": 489,
     "images": [
-      "image/97.jpg",
+      "image/83.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2417,7 +2417,7 @@
     "original_price": 500,
     "discount_price": 327,
     "images": [
-      "image/100.jpg",
+      "image/84.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2446,7 +2446,7 @@
     "original_price": 500,
     "discount_price": 228,
     "images": [
-      "image/103.jpg",
+      "image/85.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2475,7 +2475,7 @@
     "original_price": 500,
     "discount_price": 299,
     "images": [
-      "image/106.jpg",
+      "image/86.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2504,7 +2504,7 @@
     "original_price": 500,
     "discount_price": 264,
     "images": [
-      "image/109.jpg",
+      "image/87.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2533,7 +2533,7 @@
     "original_price": 500,
     "discount_price": 326,
     "images": [
-      "image/112.jpg",
+      "image/88.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2562,7 +2562,7 @@
     "original_price": 500,
     "discount_price": 448,
     "images": [
-      "image/115.jpg",
+      "image/89.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2591,7 +2591,7 @@
     "original_price": 500,
     "discount_price": 208,
     "images": [
-      "image/118.jpg",
+      "image/90.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2620,7 +2620,7 @@
     "original_price": 500,
     "discount_price": 425,
     "images": [
-      "image/121.jpg",
+      "image/91.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2649,7 +2649,7 @@
     "original_price": 500,
     "discount_price": 339,
     "images": [
-      "image/124.jpg",
+      "image/92.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2678,7 +2678,7 @@
     "original_price": 500,
     "discount_price": 396,
     "images": [
-      "image/127.jpg",
+      "image/93.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2707,7 +2707,7 @@
     "original_price": 500,
     "discount_price": 458,
     "images": [
-      "image/130.jpg",
+      "image/94.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2736,7 +2736,7 @@
     "original_price": 500,
     "discount_price": 230,
     "images": [
-      "image/133.jpg",
+      "image/95.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2765,7 +2765,7 @@
     "original_price": 500,
     "discount_price": 309,
     "images": [
-      "image/136.jpg",
+      "image/96.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2794,7 +2794,7 @@
     "original_price": 500,
     "discount_price": 340,
     "images": [
-      "image/139.jpg",
+      "image/97.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2823,7 +2823,7 @@
     "original_price": 500,
     "discount_price": 413,
     "images": [
-      "image/142.jpg",
+      "image/98.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2852,7 +2852,7 @@
     "original_price": 500,
     "discount_price": 392,
     "images": [
-      "image/145.jpg",
+      "image/99.jpeg",
       "image/logo.png"
     ],
     "highlights": {
@@ -2881,7 +2881,7 @@
     "original_price": 500,
     "discount_price": 335,
     "images": [
-      "image/148.jpg",
+      "image/100.jpeg",
       "image/logo.png"
     ],
     "highlights": {
