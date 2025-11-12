@@ -1,0 +1,2905 @@
+[
+  {
+    "id": 1,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 1",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 251,
+    "images": [
+      "image/1.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Linen Tee 1 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 2,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Modal Tee 2",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 444,
+    "images": [
+      "image/4.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Modal Tee 2 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 3,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 3",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 244,
+    "images": [
+      "image/7.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 3 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 4,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 4",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 409,
+    "images": [
+      "image/10.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Linen Tee 4 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 5,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 5",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 375,
+    "images": [
+      "image/13.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Stretchable fit",
+        "Quick dry fabric"
+      ]
+    },
+    "description": "The Shreys Linen Tee 5 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 6,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Cotton Tee 6",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 216,
+    "images": [
+      "image/16.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 6 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 7,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Silk Blend Tee 7",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 318,
+    "images": [
+      "image/19.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Eco-friendly dye",
+        "Minimal shrinkage"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 7 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 8,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Modal Tee 8",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 312,
+    "images": [
+      "image/22.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Modal Tee 8 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 9,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Polyester Tee 9",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 361,
+    "images": [
+      "image/25.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Eco-friendly dye",
+        "Minimal shrinkage"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 9 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 10,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Silk Blend Tee 10",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 305,
+    "images": [
+      "image/28.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 10 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 11,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 11",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 301,
+    "images": [
+      "image/31.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 11 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 12,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 12",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 443,
+    "images": [
+      "image/34.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft breathable fabric",
+        "Perfect for daily wear"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 12 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 13,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Modal Tee 13",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 426,
+    "images": [
+      "image/37.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft breathable fabric",
+        "Perfect for daily wear"
+      ]
+    },
+    "description": "The Shreys Modal Tee 13 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 14,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Bamboo Cotton Tee 14",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 458,
+    "images": [
+      "image/40.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 14 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 15,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Cotton Tee 15",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 388,
+    "images": [
+      "image/43.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 15 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 16,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Silk Blend Tee 16",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 273,
+    "images": [
+      "image/46.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 16 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 17,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Bamboo Cotton Tee 17",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 402,
+    "images": [
+      "image/49.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Stretchable fit",
+        "Quick dry fabric"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 17 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 18,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Wool Blend Tee 18",
+    "type": "Wool Blend",
+    "original_price": 500,
+    "discount_price": 411,
+    "images": [
+      "image/52.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Eco-friendly dye",
+        "Minimal shrinkage"
+      ]
+    },
+    "description": "The Shreys Wool Blend Tee 18 offers unmatched comfort and style.\nCrafted with premium wool blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 19,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 19",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 317,
+    "images": [
+      "image/55.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 19 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 20,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 20",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 479,
+    "images": [
+      "image/58.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Skin-friendly material",
+        "Long-lasting comfort"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 20 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 21,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 21",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 426,
+    "images": [
+      "image/61.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Linen Tee 21 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 22,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 22",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 399,
+    "images": [
+      "image/64.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 22 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 23,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Silk Blend Tee 23",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 458,
+    "images": [
+      "image/67.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 23 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 24,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Cotton Tee 24",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 207,
+    "images": [
+      "image/70.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 24 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 25,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Polyester Tee 25",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 425,
+    "images": [
+      "image/73.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 25 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 26,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Rayon Tee 26",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 355,
+    "images": [
+      "image/76.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 26 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 27,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Bamboo Cotton Tee 27",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 463,
+    "images": [
+      "image/79.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 27 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 28,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Rayon Tee 28",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 484,
+    "images": [
+      "image/82.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 28 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 29,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Modal Tee 29",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 252,
+    "images": [
+      "image/85.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Modal Tee 29 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 30,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Modal Tee 30",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 269,
+    "images": [
+      "image/88.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Modal Tee 30 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 31,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 31",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 471,
+    "images": [
+      "image/91.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Skin-friendly material",
+        "Long-lasting comfort"
+      ]
+    },
+    "description": "The Shreys Linen Tee 31 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 32,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 32",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 230,
+    "images": [
+      "image/94.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Linen Tee 32 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 33,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Cotton Tee 33",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 237,
+    "images": [
+      "image/97.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 33 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 34,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Bamboo Cotton Tee 34",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 290,
+    "images": [
+      "image/100.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 34 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 35,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Rayon Tee 35",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 285,
+    "images": [
+      "image/103.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 35 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 36,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 36",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 312,
+    "images": [
+      "image/106.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Linen Tee 36 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 37,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Organic Cotton Tee 37",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 410,
+    "images": [
+      "image/109.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 37 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 38,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Viscose Tee 38",
+    "type": "Viscose",
+    "original_price": 500,
+    "discount_price": 369,
+    "images": [
+      "image/112.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Skin-friendly material",
+        "Long-lasting comfort"
+      ]
+    },
+    "description": "The Shreys Viscose Tee 38 offers unmatched comfort and style.\nCrafted with premium viscose fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 39,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Polyester Tee 39",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 284,
+    "images": [
+      "image/115.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 39 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 40,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Silk Blend Tee 40",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 376,
+    "images": [
+      "image/118.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 40 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 41,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Rayon Tee 41",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 429,
+    "images": [
+      "image/121.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 41 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 42,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Wool Blend Tee 42",
+    "type": "Wool Blend",
+    "original_price": 500,
+    "discount_price": 386,
+    "images": [
+      "image/124.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Wool Blend Tee 42 offers unmatched comfort and style.\nCrafted with premium wool blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 43,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Wool Blend Tee 43",
+    "type": "Wool Blend",
+    "original_price": 500,
+    "discount_price": 410,
+    "images": [
+      "image/127.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Wool Blend Tee 43 offers unmatched comfort and style.\nCrafted with premium wool blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 44,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Linen Tee 44",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 222,
+    "images": [
+      "image/130.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft breathable fabric",
+        "Perfect for daily wear"
+      ]
+    },
+    "description": "The Shreys Linen Tee 44 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 45,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Polyester Tee 45",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 355,
+    "images": [
+      "image/133.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 45 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 46,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Silk Blend Tee 46",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 219,
+    "images": [
+      "image/136.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Stretchable fit",
+        "Quick dry fabric"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 46 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 47,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Bamboo Cotton Tee 47",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 392,
+    "images": [
+      "image/139.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 47 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 48,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Viscose Tee 48",
+    "type": "Viscose",
+    "original_price": 500,
+    "discount_price": 328,
+    "images": [
+      "image/142.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Viscose Tee 48 offers unmatched comfort and style.\nCrafted with premium viscose fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 49,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Polyester Tee 49",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 402,
+    "images": [
+      "image/145.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 49 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+  {
+    "id": 50,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Cotton Tee 50",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 249,
+    "images": [
+      "image/148.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 50 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Men"
+  },
+
+  
+  {
+    "id": 51,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 1",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 208,
+    "images": [
+      "image/1.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Linen Tee 1 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 52,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Modal Tee 2",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 466,
+    "images": [
+      "image/4.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Modal Tee 2 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 53,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 3",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 395,
+    "images": [
+      "image/7.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 3 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 54,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 4",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 318,
+    "images": [
+      "image/10.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Linen Tee 4 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 55,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 5",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 499,
+    "images": [
+      "image/13.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Stretchable fit",
+        "Quick dry fabric"
+      ]
+    },
+    "description": "The Shreys Linen Tee 5 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 56,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Cotton Tee 6",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 239,
+    "images": [
+      "image/16.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 6 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 57,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Silk Blend Tee 7",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 337,
+    "images": [
+      "image/19.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Eco-friendly dye",
+        "Minimal shrinkage"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 7 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 58,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Modal Tee 8",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 488,
+    "images": [
+      "image/22.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Modal Tee 8 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 59,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Polyester Tee 9",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 450,
+    "images": [
+      "image/25.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Eco-friendly dye",
+        "Minimal shrinkage"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 9 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 60,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Silk Blend Tee 10",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 219,
+    "images": [
+      "image/28.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 10 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 61,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 11",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 409,
+    "images": [
+      "image/31.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 11 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 62,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 12",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 253,
+    "images": [
+      "image/34.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft breathable fabric",
+        "Perfect for daily wear"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 12 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 63,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Modal Tee 13",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 475,
+    "images": [
+      "image/37.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft breathable fabric",
+        "Perfect for daily wear"
+      ]
+    },
+    "description": "The Shreys Modal Tee 13 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 64,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Bamboo Cotton Tee 14",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 260,
+    "images": [
+      "image/40.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 14 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 65,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Cotton Tee 15",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 306,
+    "images": [
+      "image/43.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 15 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 66,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Silk Blend Tee 16",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 440,
+    "images": [
+      "image/46.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 16 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 67,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Bamboo Cotton Tee 17",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 470,
+    "images": [
+      "image/49.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Stretchable fit",
+        "Quick dry fabric"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 17 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 68,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Wool Blend Tee 18",
+    "type": "Wool Blend",
+    "original_price": 500,
+    "discount_price": 272,
+    "images": [
+      "image/52.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Eco-friendly dye",
+        "Minimal shrinkage"
+      ]
+    },
+    "description": "The Shreys Wool Blend Tee 18 offers unmatched comfort and style.\nCrafted with premium wool blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 69,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 19",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 248,
+    "images": [
+      "image/55.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 19 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 70,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 20",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 478,
+    "images": [
+      "image/58.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Skin-friendly material",
+        "Long-lasting comfort"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 20 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 71,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 21",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 342,
+    "images": [
+      "image/61.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Linen Tee 21 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 72,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 22",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 434,
+    "images": [
+      "image/64.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 22 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 73,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Silk Blend Tee 23",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 269,
+    "images": [
+      "image/67.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 23 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 74,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Cotton Tee 24",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 342,
+    "images": [
+      "image/70.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 24 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 75,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Polyester Tee 25",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 255,
+    "images": [
+      "image/73.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 25 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 76,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Rayon Tee 26",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 464,
+    "images": [
+      "image/76.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 26 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 77,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Bamboo Cotton Tee 27",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 401,
+    "images": [
+      "image/79.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 27 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 78,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Rayon Tee 28",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 388,
+    "images": [
+      "image/82.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 28 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 79,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Modal Tee 29",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 445,
+    "images": [
+      "image/85.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Modal Tee 29 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 80,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Modal Tee 30",
+    "type": "Modal",
+    "original_price": 500,
+    "discount_price": 434,
+    "images": [
+      "image/88.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Modal Tee 30 offers unmatched comfort and style.\nCrafted with premium modal fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 81,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 31",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 397,
+    "images": [
+      "image/91.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Skin-friendly material",
+        "Long-lasting comfort"
+      ]
+    },
+    "description": "The Shreys Linen Tee 31 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 82,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 32",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 499,
+    "images": [
+      "image/94.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Linen Tee 32 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 83,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Cotton Tee 33",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 489,
+    "images": [
+      "image/97.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 33 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 84,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Bamboo Cotton Tee 34",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 327,
+    "images": [
+      "image/100.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 34 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 85,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Rayon Tee 35",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 228,
+    "images": [
+      "image/103.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 35 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 86,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 36",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 299,
+    "images": [
+      "image/106.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Breathable linen texture",
+        "Summer-friendly wear"
+      ]
+    },
+    "description": "The Shreys Linen Tee 36 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 87,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Organic Cotton Tee 37",
+    "type": "Organic Cotton",
+    "original_price": 500,
+    "discount_price": 264,
+    "images": [
+      "image/109.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Organic Cotton Tee 37 offers unmatched comfort and style.\nCrafted with premium organic cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 88,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Viscose Tee 38",
+    "type": "Viscose",
+    "original_price": 500,
+    "discount_price": 326,
+    "images": [
+      "image/112.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Skin-friendly material",
+        "Long-lasting comfort"
+      ]
+    },
+    "description": "The Shreys Viscose Tee 38 offers unmatched comfort and style.\nCrafted with premium viscose fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 89,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Polyester Tee 39",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 448,
+    "images": [
+      "image/115.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Moisture-wicking material",
+        "Ideal for workouts"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 39 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 90,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Silk Blend Tee 40",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 208,
+    "images": [
+      "image/118.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Classic round neck",
+        "Fade-resistant color"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 40 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 91,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Rayon Tee 41",
+    "type": "Rayon",
+    "original_price": 500,
+    "discount_price": 425,
+    "images": [
+      "image/121.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Rayon Tee 41 offers unmatched comfort and style.\nCrafted with premium rayon fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 92,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Wool Blend Tee 42",
+    "type": "Wool Blend",
+    "original_price": 500,
+    "discount_price": 339,
+    "images": [
+      "image/124.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Wool Blend Tee 42 offers unmatched comfort and style.\nCrafted with premium wool blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 93,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Wool Blend Tee 43",
+    "type": "Wool Blend",
+    "original_price": 500,
+    "discount_price": 396,
+    "images": [
+      "image/127.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Wool Blend Tee 43 offers unmatched comfort and style.\nCrafted with premium wool blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 94,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Linen Tee 44",
+    "type": "Linen",
+    "original_price": 500,
+    "discount_price": 458,
+    "images": [
+      "image/130.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft breathable fabric",
+        "Perfect for daily wear"
+      ]
+    },
+    "description": "The Shreys Linen Tee 44 offers unmatched comfort and style.\nCrafted with premium linen fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 95,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Polyester Tee 45",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 230,
+    "images": [
+      "image/133.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Soft-touch finish",
+        "Wrinkle-resistant"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 45 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 96,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Silk Blend Tee 46",
+    "type": "Silk Blend",
+    "original_price": 500,
+    "discount_price": 309,
+    "images": [
+      "image/136.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Stretchable fit",
+        "Quick dry fabric"
+      ]
+    },
+    "description": "The Shreys Silk Blend Tee 46 offers unmatched comfort and style.\nCrafted with premium silk blend fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 97,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Bamboo Cotton Tee 47",
+    "type": "Bamboo Cotton",
+    "original_price": 500,
+    "discount_price": 340,
+    "images": [
+      "image/139.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Bamboo Cotton Tee 47 offers unmatched comfort and style.\nCrafted with premium bamboo cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 98,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Viscose Tee 48",
+    "type": "Viscose",
+    "original_price": 500,
+    "discount_price": 413,
+    "images": [
+      "image/142.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Lightweight texture",
+        "Smooth glossy finish"
+      ]
+    },
+    "description": "The Shreys Viscose Tee 48 offers unmatched comfort and style.\nCrafted with premium viscose fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 99,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Polyester Tee 49",
+    "type": "Polyester",
+    "original_price": 500,
+    "discount_price": 392,
+    "images": [
+      "image/145.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Polyester Tee 49 offers unmatched comfort and style.\nCrafted with premium polyester fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  },
+  {
+    "id": 100,
+    "brand": "Shreys",
+    "category": "T-Shirts",
+    "name": "Shreys Women Cotton Tee 50",
+    "type": "Cotton",
+    "original_price": 500,
+    "discount_price": 335,
+    "images": [
+      "image/148.jpg",
+      "image/logo.png"
+    ],
+    "highlights": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "2XL"
+      ],
+      "features": [
+        "Odor control fabric",
+        "Flexible and soft"
+      ]
+    },
+    "description": "The Shreys Cotton Tee 50 offers unmatched comfort and style.\nCrafted with premium cotton fabric for superior softness.\nIdeal for everyday wear or casual outings.\nDesigned to provide a relaxed yet modern fit.\nAvailable in multiple sizes to suit every preference.",
+    "gender": "Women"
+  }
+
+]
