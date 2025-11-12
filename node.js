@@ -8,13 +8,14 @@ const cors = require("cors"); // ✅ Import CORS
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// ✅ Enable CORS for all routes
+// ✅ Enable CORS for all routes (fix fetch() errors)
 app.use(cors());
 
-// Serve images folder
-app.use("/images", express.static(path.join(__dirname, "images")));
+// ✅ Serve images from the "image" folder
+// This matches your actual folder name exactly
+app.use("/image", express.static(path.join(__dirname, "image")));
 
-// Serve the JSON file
+// ✅ Serve the JSON file (tshirts.json)
 app.get("/api/tshirts", (req, res) => {
   const filePath = path.join(__dirname, "tshirts.json");
   if (fs.existsSync(filePath)) {
@@ -25,7 +26,7 @@ app.get("/api/tshirts", (req, res) => {
   }
 });
 
-// Simple home page
+// ✅ Simple homepage
 app.get("/", (req, res) => {
   res.send(`
     <h1>👕 Shreys T-Shirts API</h1>
@@ -34,7 +35,7 @@ app.get("/", (req, res) => {
   `);
 });
 
-// Keep-alive (Render-safe)
+// ✅ Keep-alive (Render-safe)
 const SELF_URL = process.env.RENDER_EXTERNAL_URL;
 if (SELF_URL) {
   setInterval(async () => {
@@ -47,7 +48,12 @@ if (SELF_URL) {
   }, 600000); // every 10 minutes
 }
 
-// Start server
+// ✅ Optional status route for monitoring (handy for uptime checks)
+app.get("/status", (req, res) => {
+  res.json({ status: "active", time: new Date().toISOString() });
+});
+
+// ✅ Start the server
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
 });
