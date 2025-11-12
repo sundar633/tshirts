@@ -3,9 +3,13 @@ const express = require("express");
 const path = require("path");
 const axios = require("axios");
 const fs = require("fs");
+const cors = require("cors"); // ✅ Import CORS
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// ✅ Enable CORS for all routes
+app.use(cors());
 
 // Serve images folder
 app.use("/images", express.static(path.join(__dirname, "images")));
@@ -30,23 +34,17 @@ app.get("/", (req, res) => {
   `);
 });
 
-// Safe Keep-Alive ping for Render
+// Keep-alive (Render-safe)
 const SELF_URL = process.env.RENDER_EXTERNAL_URL;
-
-// Render blocks self-pings inside the same container,
-// so we just print a message instead of causing repeated ping failures.
 if (SELF_URL) {
-  console.log(`🔄 Keep-alive setup for: ${SELF_URL}`);
   setInterval(async () => {
     try {
-      await axios.get(SELF_URL, { timeout: 5000 });
+      await axios.get(SELF_URL);
       console.log("✅ External ping successful.");
     } catch {
       console.log("⚠️ Render blocks same-origin pings — safe to ignore.");
     }
-  }, 600000); // every 10 minutes (optional, adjust if using UptimeRobot)
-} else {
-  console.log("ℹ️ Running locally — no keep-alive needed.");
+  }, 600000); // every 10 minutes
 }
 
 // Start server
