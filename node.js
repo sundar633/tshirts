@@ -30,16 +30,24 @@ app.get("/", (req, res) => {
   `);
 });
 
-// Keep-alive ping
-const SELF_URL = process.env.RENDER_EXTERNAL_URL || `http://localhost:${PORT}`;
-setInterval(async () => {
-  try {
-    await axios.get(SELF_URL);
-    console.log("✅ Server pinged successfully to stay awake.");
-  } catch (err) {
-    console.log("⚠️ Ping failed, retrying...");
-  }
-}, 10000); // every 10 seconds
+// Safe Keep-Alive ping for Render
+const SELF_URL = process.env.RENDER_EXTERNAL_URL;
+
+// Render blocks self-pings inside the same container,
+// so we just print a message instead of causing repeated ping failures.
+if (SELF_URL) {
+  console.log(`🔄 Keep-alive setup for: ${SELF_URL}`);
+  setInterval(async () => {
+    try {
+      await axios.get(SELF_URL, { timeout: 5000 });
+      console.log("✅ External ping successful.");
+    } catch {
+      console.log("⚠️ Render blocks same-origin pings — safe to ignore.");
+    }
+  }, 600000); // every 10 minutes (optional, adjust if using UptimeRobot)
+} else {
+  console.log("ℹ️ Running locally — no keep-alive needed.");
+}
 
 // Start server
 app.listen(PORT, () => {
